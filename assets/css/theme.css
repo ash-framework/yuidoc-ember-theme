@@ -25,12 +25,12 @@ h5 {
     font-size: 16px;
 }
 body a {
-    color: #f23818;
+    color: #7FBA64;
     text-decoration: none;
 }
 body a:hover {
     text-decoration: none;
-    color: #CE3A21;
+    color: #7FBA64;
 }
 p kbd {
     color: inherit;
@@ -115,10 +115,10 @@ input.search-query:focus {
     font-size: 24px;
 }
 .navbar.navbar-default .navbar-nav> li> a:focus, .navbar.navbar-default .navbar-nav> li> a:hover {
-    color: #f23818;
+    color: #7FBA64;
 }
 .navbar.navbar-default .navbar-nav> .active> a, .navbar.navbar-default .navbar-nav> .active> a:focus, .navbar.navbar-default .navbar-nav> .active> a:hover {
-    color: #f23818;
+    color: #7FBA64;
     background-color: transparent;
 }
 #main-wrapper {
@@ -146,7 +146,7 @@ ul.inline> li, ol.inline> li {
 }
 .method-signature .name code {
     font-weight: bold;
-    color: #CE3A21;
+    color: #7FBA64;
 }
 .method-signature {
     margin-bottom: 2px;
@@ -254,7 +254,7 @@ pre {
     font-size: 13px;
 }
 #docs-main .page-header {
-    color: #f23818;
+    color: #7FBA64;
 }
 #docs-main .page-header> h1> i {
     padding-right: 20px;
@@ -283,7 +283,7 @@ pre {
 #docs-main .page-section .nav-tabs {
     display: table;
     width: 100%;
-    border-bottom: 1px solid #f23818;
+    border-bottom: 1px solid #7FBA64;
 }
 #docs-main .page-section .nav-tabs> li {
     display: table-cell;
@@ -295,8 +295,8 @@ pre {
     text-align: center;
 }
 #docs-main .page-section .nav-tabs> li.active a {
-    background: #f23818;
-    border: 1px solid #f23818;
+    background: #7FBA64;
+    border: 1px solid #7FBA64;
     color: white;
 }
 #docs-main .page-section .nav-tabs> li:first-of-type a {
@@ -322,7 +322,7 @@ pre {
     background: none;
 }
 .method-signature .optional {
-    color: ##787878;
+    color: #787878;
 }
 .apidocs p {
     margin: 1.5em 0;
